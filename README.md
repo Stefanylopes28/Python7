@@ -1,1 +1,3 @@
 # Python7
+
+Neste repositório estão reunidas várias atividades práticas feitas em Python, focadas principalmente em manipulação de arquivos e análise de dados. Ao longo dos exercícios, trabalhei com leitura e escrita de arquivos de texto, CSV e JSON, além de realizar cálculos estatísticos como média e desvio padrão para analisar dados de logs. O objetivo foi desenvolver scripts limpos e funcionais que possam ser úteis tanto para quem está começando quanto para quem quer reforçar conceitos fundamentais de programação e manipulação de dados em Python. Todos os códigos foram testados e estão prontos para uso, servindo como base para projetos futuros na área de dados ou desenvolvimento.
