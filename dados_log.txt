@@ -1,0 +1,5 @@
+Epoch 1 - Execution time: 2.35s
+Epoch 2 - Execution time: 2.50s
+Epoch 3 - Execution time: 2.40s
+Epoch 4 - Execution time: 2.45s
+Epoch 5 - Execution time: 2.30s
